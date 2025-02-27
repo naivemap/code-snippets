@@ -16,6 +16,11 @@ theme:
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/git-alt
+    # tag:
+    #   html: fontawesome/brands/html5
+    #   js: fontawesome/brands/js
+    #   css:  fontawesome/brands/css3
+    #   default: fontawesome/brands/git-alt
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -45,7 +50,7 @@ theme:
 
     - navigation.instant
     - navigation.tracking
-    # - navigation.sections
+    - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.path
@@ -80,6 +85,10 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/huanglii
   # generator: false
+  tags:
+    CSS: css
+    HTML: html
+    JavaScript: js
 
 # Extensions
 markdown_extensions:

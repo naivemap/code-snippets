@@ -1,1 +1,3 @@
-# Welcome to Code Snippets
+# 开始
+
+Welcome to Code Snippets.

@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - GIS
 ---
 
 # [ST_AsImage](https://help.aliyun.com/zh/polardb/polardb-for-postgresql/st-asimage?spm=a2c4g.11186623.help-menu-2249963.d_8_5_3_2.435d1dc7c8te2K)
