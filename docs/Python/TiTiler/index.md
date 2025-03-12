@@ -1,3 +1,9 @@
+---
+comments: true
+tags:
+  - GIS
+---
+
 # TiTiler
 
 [TiTiler](https://developmentseed.org/titiler/): A modern dynamic tile server built on top of FastAPI and Rasterio/GDAL.
