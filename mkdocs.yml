@@ -1,12 +1,12 @@
 site_name: Code Snippets
 
 # Repository
-repo_name: huanglii/code-snippets
-repo_url: https://github.com/huanglii/code-snippets
+repo_name: naivemap/code-snippets
+repo_url: https://github.com/naivemap/code-snippets
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2025 huangli
+copyright: Copyright &copy; 2025 naivemap
 
 theme:
   name: material
@@ -83,7 +83,7 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/huanglii
+      link: https://github.com/naivemap
   # generator: false
   tags:
     CSS: css
